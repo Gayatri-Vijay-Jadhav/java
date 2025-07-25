@@ -1,1 +1,1 @@
-string
+System.out.println("enter a number: "+a);
